@@ -217,7 +217,7 @@ header {
     footer {
       background-color: white;
       padding: 15px 0;
-      
+      margin-inline-end: 1%;
      justify-content: center;
      align-items: center;
       flex-direction: column;
