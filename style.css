@@ -236,7 +236,7 @@ header {
         top: 40%;
         left: 50%;
         transform: translate(-50%, -50%);
-        width: 350px;
+        width: 320px;
         height: 300px;
         transform-style: preserve-3d;
         perspective: 2000px;
